@@ -4,7 +4,9 @@ public class SelectStatement {
 	
 	public static void main(String[] args) {
 		System.out.println("Main Methdo is Start");
-		System.out.println("Main methdo is start is");
+
+
+		System.out.println("Main is SelecgtStatement");
 	}
 
 }
